@@ -22,6 +22,14 @@ This is a quote is using the "```" method
 
 ```
 
+> For example:
+
+> - Trust Level
+- Confidence in advice given
+- Formal vs informal relationship
+- Things you talk about
+
+
 this is some new text after the first quote   
   
 > Then i put this here using the ">" method
